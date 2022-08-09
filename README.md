@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://selimdoyranli.com">Artem</a>.<br> I'm a Frontend Developer.<br><br>#javascript, #reactjs, #html, #cssn</samp>
+  <samp>Hello there. I'm <a href="https://selimdoyranli.com">Artem</a>.<br> I'm a Frontend Developer.<br><br>#html, #css, #javascript, #git, #sass, #bem, #react</samp>
   <br>
   <br>
   <br>
