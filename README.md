@@ -1,4 +1,4 @@
-### hey there 
+### Hello there! 
 <a href="https://www.linkedin.com/in/stawetski/">
   <img align="left" alt="Artem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
