@@ -5,3 +5,5 @@
 - 👯 I’m looking to collaborate on good and friendly company.
 - 🤔 I’m looking for help with searching the best job-offer.
 - 💬 Ask me about unboxing variables.
+
+![](https://komarev.com/ghpvc/?username=artemstw&color=brightgreen&style=for-the-badge)
