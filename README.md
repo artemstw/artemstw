@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**artemstw/artemstw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my portfoilio.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on good and friendly company.
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: +79818880017 or artemstw@gmail.com.
 - 😄 Pronouns: I really don't know what can I put here.
 - ⚡ Fun fact: cicada lives 17 years.
--->
