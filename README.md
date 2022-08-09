@@ -1,6 +1,8 @@
-## Hello there! 
+### Hi there 👋
 
-I'm Artem Stawetski, a Frontend developer from Saint-Petersburg.
-
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+- 🔭 I’m currently working on my portfoilio.
+- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and React.
+- 👯 I’m looking to collaborate on good and friendly company.
+- 🤔 I’m looking for help with searching the best job-offer.
+- 💬 Ask me about unboxing variables.
