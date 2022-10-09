@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfoilio.
-- 🌱 I’m currently learning JavaScript and React.
-- 👯 I’m looking to collaborate on good and friendly company.
+  My name is Artem.
+
+- 🔭 I’m a Front-End Developer.
+- 🌱 My technologies stack: HTML, CSS, Sass, Git, npm, Gulp, JavaScript, Webpack, React.
+- 👯 I’m currently learning React and TypeScript.
 - 🤔 I’m looking for help with searching the best job-offer.
 - 💬 Ask me about unboxing variables.
 
